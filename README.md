@@ -19,7 +19,7 @@
 
 # <font color=DeepSkyBlue> Publications</font>
 ## <font color=DeepSkyBlue> Refereed Journal Publications</font>
- 1. **Xuegang Tan**$^*$, Wangli He, Jinde Cao^*, and Tingwen Huang, “Stabilization and synchronization of neural networks via impulsive adaptive control," IEEE Transactions on Neural Networks and Learning Systems, in press, doi: 10.1109/TNNLS.2023.3287997.
+ 1. **Xuegang Tan**${^*}$, Wangli He, Jinde Cao${^*}$, and Tingwen Huang, “Stabilization and synchronization of neural networks via impulsive adaptive control," IEEE Transactions on Neural Networks and Learning Systems, in press, doi: 10.1109/TNNLS.2023.3287997.
 
  2. Tao Wu, Jinde Cao*, Lianglin Xiong, Ju H. Park, and **Xuegang Tan**, “Adaptive event-triggered mechanism to synchronisation of reaction-diffusion CVNNs and its application in image secure communication,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, in press, doi: 10.1109/T SM C.2023.3258222.
 
