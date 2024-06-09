@@ -22,26 +22,26 @@
 
 # <font color=DeepSkyBlue> Publications</font>
 ## <font color=DeepSkyBlue> Selected Journal Papers</font>
- 1. **Xuegang Tan**, Wangli He, Jinde Cao, and Tingwen Huang, “Stabilization and synchronization of neural networks via impulsive adaptive control," *IEEE Transactions on Neural Networks and Learning Systems*, in press, doi: 10.1109/TNNLS.2023.3287997.
+ 1. **Xuegang Tan**, Wangli He, Jinde Cao, and Tingwen Huang, Stabilization and synchronization of neural networks via impulsive adaptive control, *IEEE Transactions on Neural Networks and Learning Systems*, in press, doi: 10.1109/TNNLS.2023.3287997.
 
- 2. Tao Wu, Jinde Cao, Lianglin Xiong, Ju H. Park, and **Xuegang Tan**, “Adaptive event-triggered mechanism to synchronisation of reaction-diffusion CVNNs and its application in image secure communication,” *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, in press, doi: 10.1109/T SM C.2023.3258222.
+ 2. Tao Wu, Jinde Cao, Lianglin Xiong, Ju H. Park, and **Xuegang Tan**, Adaptive event-triggered mechanism to synchronisation of reaction-diffusion CVNNs and its application in image secure communication, *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, in press, doi: 10.1109/T SM C.2023.3258222.
 
- 3. Ahmed Alsaedi, Jinde Cao, Bashir Ahmad, Ahmed Alshehri, and **Xuegang Tan**, “Adaptive synchronization of second-order leader-following multi-agent systems," *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, in press, doi: 10.1109/T SM C.2023.3272527.
+ 3. Ahmed Alsaedi, Jinde Cao, Bashir Ahmad, Ahmed Alshehri, and **Xuegang Tan**, Adaptive synchronization of second-order leader-following multi-agent systems, *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, in press, doi: 10.1109/T SM C.2023.3272527.
 
- 4. **Xuegang Tan**, Yang Yuan, Wangli He, Jinde Cao, and Tingwen Huang, “Distributed hybrid optimization for multi-agent systems," *Science China Technological Sciences*, 65: 1651 − 1660, 2022.
+ 4. **Xuegang Tan**, Yang Yuan, Wangli He, Jinde Cao, and Tingwen Huang, Distributed hybrid optimization for multi-agent systems, *Science China Technological Sciences*, 65: 1651 − 1660, 2022.
 
- 5. **Xuegang Tan**, Changcheng Xiang, Jinde Cao, Guanghui Wen, Wenying Xu, and Leszek Rutkowski, “Synchronization of neural networks via periodic self-triggered impulsive control and its application in image encryption," *IEEE Transactions on Cybernetics*, 52(8): 8246 − 8257, 2022.
+ 5. **Xuegang Tan**, Changcheng Xiang, Jinde Cao, Guanghui Wen, Wenying Xu, and Leszek Rutkowski, Synchronization of neural networks via periodic self-triggered impulsive control and its application in image encryption, *IEEE Transactions on Cybernetics*, 52(8): 8246 − 8257, 2022.
 
- 6. **Xuegang Tan**, Ming Cao, Jinde Cao, Wenying Xu, and Yiping Luo, “Event-triggered synchronization of multi-agent systems with partial input saturation," *IEEE Transactions on Control of Network Systems*, 8(3): 1406 − 1416, 2021.
+ 6. **Xuegang Tan**, Ming Cao, Jinde Cao, Wenying Xu, and Yiping Luo, Event-triggered synchronization of multi-agent systems with partial input saturation, *IEEE Transactions on Control of Network Systems*, 8(3): 1406 − 1416, 2021.
  
- 7. **Xuegang Tan**, Ming Cao, and Jinde Cao, “Distributed dynamic event-based control for nonlinear multi-agent systems," *IEEE Transactions on Circuits and Systems II: Express Briefs*, 68(2): 687 − 691, 2021.
+ 7. **Xuegang Tan**, Ming Cao, and Jinde Cao, Distributed dynamic event-based control for nonlinear multi-agent systems, *IEEE Transactions on Circuits and Systems II: Express Briefs*, 68(2): 687 − 691, 2021.
  
- 8. **Xuegang Tan**, Jinde Cao, Guoping Lu, and Leszek Rutkowski, “Distributed dynamic self-triggered impulsive control for consensus networks: The case of impulse gain with Normal Distribution," *IEEE Transactions on Cybernetics*, 51(2): 624 − 634, 2021. (<font color=Crimson>ESI high-cited paper</font>)
+ 8. **Xuegang Tan**, Jinde Cao, Guoping Lu, and Leszek Rutkowski, Distributed dynamic self-triggered impulsive control for consensus networks: The case of impulse gain with Normal Distribution, *IEEE Transactions on Cybernetics*, 51(2): 624 − 634, 2021. (<font color=Crimson>ESI high-cited paper</font>)
 
- 9. **Xuegang Tan**, Jinde Cao, and Leszek Rutkowski, “Distributed dynamic self-triggered control for uncertain complex networks with Markov switching topologies and random time-varying delay," *IEEE Transactions on Network Science and Engineering*, 7(3): 1111−1120, 2020.
+ 9. **Xuegang Tan**, Jinde Cao, and Leszek Rutkowski, Distributed dynamic self-triggered control for uncertain complex networks with Markov switching topologies and random time-varying delay, *IEEE Transactions on Network Science and Engineering*, 7(3): 1111−1120, 2020.
 
- 10. **Xuegang Tan**, Jinde Cao, and Xiaodi Li, “Consensus of leader-following multiagent systems: A distributed event-triggered impulsive control strategy," *IEEE Transactions on Cybernetics*, 49(3): 792−801, 2019. (<font color=Crimson>ESI high-cited paper</font>)
+ 10. **Xuegang Tan**, Jinde Cao, and Xiaodi Li, Consensus of leader-following multiagent systems: A distributed event-triggered impulsive control strategy, *IEEE Transactions on Cybernetics*, 49(3): 792−801, 2019. (<font color=Crimson>ESI high-cited paper</font>)
 
- 11. **Xuegang Tan**, Jinde Cao, Xiaodi Li, and A. Alsaedi, “Leader-following mean square consensus of stochastic multi-agent systems with input delay via event-triggered control," *IET Control Theory & Applications*, 12(2): 299−309, 2018. (<font color=Crimson>ESI high-cited paper</font>)
+ 11. **Xuegang Tan**, Jinde Cao, Xiaodi Li, and A. Alsaedi, Leader-following mean square consensus of stochastic multi-agent systems with input delay via event-triggered control, *IET Control Theory & Applications*, 12(2): 299−309, 2018. (<font color=Crimson>ESI high-cited paper</font>)
 
 
