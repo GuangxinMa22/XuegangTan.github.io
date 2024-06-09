@@ -23,31 +23,22 @@
 
  2. Tao Wu, Jinde Cao, Lianglin Xiong, Ju H. Park, and **Xuegang Tan**, “Adaptive event-triggered mechanism to synchronisation of reaction-diffusion CVNNs and its application in image secure communication,” *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, in press, doi: 10.1109/T SM C.2023.3258222.
 
- 4. Ahmed Alsaedi, Jinde Cao, Bashir Ahmad, Ahmed Alshehri, and **Xuegang Tan***, “Adaptive synchronization of second-order leader-following multi-agent systems," *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, in press, doi: 10.1109/T SM C.2023.3272527.
+ 3. Ahmed Alsaedi, Jinde Cao, Bashir Ahmad, Ahmed Alshehri, and **Xuegang Tan**, “Adaptive synchronization of second-order leader-following multi-agent systems," *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, in press, doi: 10.1109/T SM C.2023.3272527.
 
- 5. **Xuegang Tan**, Yang Yuan, Wangli He, Jinde Cao, and Tingwen Huang, “Distributed hybrid optimization for multi-agent systems," *Science China Technological Sciences*, 65: 1651 − 1660, 2022.
+ 4. **Xuegang Tan**, Yang Yuan, Wangli He, Jinde Cao, and Tingwen Huang, “Distributed hybrid optimization for multi-agent systems," *Science China Technological Sciences*, 65: 1651 − 1660, 2022.
 
- 6. Ahmed Alsaedi, Jinde Cao, Bashir Ahmad, Ahmed Alshehri, and **Xuegang Tan**^*, “Synchronization of master-slave memristive neural networks via fuzzy output-based adaptive strategy," *Chaos, Solitons & Fractals*, 158, 112095, 2022.
+ 5. **Xuegang Tan**, Changcheng Xiang, Jinde Cao, Guanghui Wen, Wenying Xu, and Leszek Rutkowski, “Synchronization of neural networks via periodic self-triggered impulsive control and its application in image encryption," *IEEE Transactions on Cybernetics*, 52(8): 8246 − 8257, 2022.
 
- 7. **Xuegang Tan**, Changcheng Xiang, Jinde Cao, Guanghui Wen, Wenying Xu, and Leszek Rutkowski, “Synchronization of neural networks via periodic self-triggered impulsive control and its application in image encryption," *IEEE Transactions on Cybernetics*, 52(8): 8246 − 8257, 2022.
-
- 8. **Xuegang Tan**, Ming Cao, Jinde Cao, Wenying Xu, and Yiping Luo, “Event-triggered synchronization of multi-agent systems with partial input saturation," *IEEE Transactions on Control of Network Systems*, 8(3): 1406 − 1416, 2021.
+ 6. **Xuegang Tan**, Ming Cao, Jinde Cao, Wenying Xu, and Yiping Luo, “Event-triggered synchronization of multi-agent systems with partial input saturation," *IEEE Transactions on Control of Network Systems*, 8(3): 1406 − 1416, 2021.
  
- 9. **Xuegang Tan**, Ming Cao, and Jinde Cao, “Distributed dynamic event-based control for nonlinear multi-agent systems," *IEEE Transactions on Circuits and Systems II: Express Briefs*, 68(2): 687 − 691, 2021.
- 10. 
- 11. **Xuegang Tan**, Jinde Cao, Guoping Lu, and Leszek Rutkowski, “Distributed dynamic self-triggered impulsive control for consensus networks: The case of impulse gain with Normal Distribution," *IEEE Transactions on Cybernetics*, 51(2): 624 − 634, 2021. (<font color=Crimson>**ESI high-cited paper**</font>)
-
- 12. **Xuegang Tan**, Jinde Cao, and Leszek Rutkowski, “Distributed dynamic self-triggered control for uncertain complex networks with Markov switching topologies and random time-varying delay," *IEEE Transactions on Network Science and Engineering*, 7(3): 1111−1120, 2020.
-
- 13. **Xuegang Tan**, Jinde Cao, and Xiaodi Li, “Event-based impulsive control for nonlinear systems and its application to synchronization of Chua’s circuit," *IMA Journal of Mathematical Control and Information*, 37(1): 82−104, 2020.
-
- 14. **Xuegang Tan**, Jinde Cao, and Xiaodi Li, “Consensus of leader-following multiagent systems: A distributed event-triggered impulsive control strategy," *IEEE Transactions on Cybernetics*, 49(3): 792−801, 2019. (<font color=Crimson>**ESI high-cited paper**</font>)
-
- 15. **Xuegang Tan and Jinde Cao**, “Intermittent control with double event-driven for leader-following synchronization in complex networks," *Applied Mathematical Modelling*, 64: 372−385, 2018.
-
- 16. **Xuegang Tan**, Jinde Cao, Xiaodi Li, and A. Alsaedi, “Leader-following mean square consensus of stochastic multi-agent systems with input delay via event-triggered control," *IET Control Theory & Applications*, 12(2): 299−309, 2018. (<font color=Crimson>**ESI high-cited paper**</font>)
+ 7. **Xuegang Tan**, Ming Cao, and Jinde Cao, “Distributed dynamic event-based control for nonlinear multi-agent systems," *IEEE Transactions on Circuits and Systems II: Express Briefs*, 68(2): 687 − 691, 2021.
  
- 17. **Xuegang Tan**, Bin Hu, Zhi-Hong Guan, Rui-Quan Liao, Jiang-Wen Xiao, and Yuehua Huang, “Stability of hybrid impulsive and switching stochastic systems with time-delay," *International Journal of Control, Automation and Systems*,16: 1532−1540, 2018.
- 
- 18. Xingcheng Pu and **Xuegang Tan**, “Stability of hybrid stochastic differential systems with switching and time delay," Stochastic Analysis and Applications, 35(3): 569−585, 2017.
+ 8. **Xuegang Tan**, Jinde Cao, Guoping Lu, and Leszek Rutkowski, “Distributed dynamic self-triggered impulsive control for consensus networks: The case of impulse gain with Normal Distribution," *IEEE Transactions on Cybernetics*, 51(2): 624 − 634, 2021. (<font color=Crimson>ESI high-cited paper</font>)
+
+ 9. **Xuegang Tan**, Jinde Cao, and Leszek Rutkowski, “Distributed dynamic self-triggered control for uncertain complex networks with Markov switching topologies and random time-varying delay," *IEEE Transactions on Network Science and Engineering*, 7(3): 1111−1120, 2020.
+
+ 10. **Xuegang Tan**, Jinde Cao, and Xiaodi Li, “Consensus of leader-following multiagent systems: A distributed event-triggered impulsive control strategy," *IEEE Transactions on Cybernetics*, 49(3): 792−801, 2019. (<font color=Crimson>ESI high-cited paper</font>)
+
+ 11. **Xuegang Tan**, Jinde Cao, Xiaodi Li, and A. Alsaedi, “Leader-following mean square consensus of stochastic multi-agent systems with input delay via event-triggered control," *IET Control Theory & Applications*, 12(2): 299−309, 2018. (<font color=Crimson>ESI high-cited paper</font>)
+
 
