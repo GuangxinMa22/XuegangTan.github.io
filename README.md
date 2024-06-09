@@ -1,7 +1,7 @@
 # **Xuegang Tan's  Homepage**
 
 # **Welcome**
-|![XgTan.png](/images/XgTan.png)|
+|![XgTan.png](/XgTan.png)|
  - **Dr. Xuegang Tan (谭学刚, 副研究员, 博导)**
  -  School of Information and Communication Engineering, Hainan University, Haikou 570228, China.
  -  Office: Room 406, School of Information and Communication Engineering, No 58 Renmin Avenue, Haikou 570228, China (办公地址: 中国海南省海口市人民大道58号海南大学信息与通信工程学院406)
