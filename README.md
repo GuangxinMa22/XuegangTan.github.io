@@ -1,4 +1,4 @@
-# <font color=DeepSkyBlue>Xuegang Tan's  Homepage</font>
+# <h1><font color=DeepSkyBlue>Xuegang Tan's  Homepage</font></h1>
 
 # **Welcome**
  - **Dr. Xuegang Tan (谭学刚, 副研究员, 博导)**
