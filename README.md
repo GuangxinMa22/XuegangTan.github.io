@@ -55,5 +55,5 @@
 
  2. **Xuegang Tan**, Jinde Cao, Self-triggered Impulsive Synchronization of Multi-agent Systems with Encrypted Communication, *11th International Conference on Information Science and Technology (ICIST), Chengdu, China*, 114 − 118, 2021.
 
- 3. Dongdong Yue, Jinde Cao*, Qi Li, and **Xuegang Tan**, Robust neuro-adaptive asymptotic consensus for a class of uncertain multi-agent systems: An edge-based paradigm, *2019 International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary*, 1−7, 2019.
+ 3. Dongdong Yue, Jinde Cao, Qi Li, and **Xuegang Tan**, Robust neuro-adaptive asymptotic consensus for a class of uncertain multi-agent systems: An edge-based paradigm, *2019 International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary*, 1−7, 2019.
 
