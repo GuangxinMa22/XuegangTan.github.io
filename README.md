@@ -7,8 +7,10 @@
 # <font color=DeepSkyBlue> Personal Information</font>
   <p style="text-align: justify;">  Xuegang Tan received Ph.D. degree in control science and engineering from Southeast University, Nanjing, China, in 2020. In 2019, he holden a China Scholarship Council Studentship for one-year study with the Faculty of Science and Engineering at the University of Groningen, the Netherlands. From  2020 to 2023, he was a Postdoctoral researcher at Southeast University, Nanjing, China. He is currently an Associate Researcher with the School of information and communication engineering, Hainan University, Haikou, China. His current research interests include distributed cooperative control of multi-agent systems, distributed optimization, neural networks, complex network systems, and hybrid control systems. </p>
 
+《！-- #<font color=DeepSkyBlue> Honors and Awards</font> --》
+
 # <font color=DeepSkyBlue> Research Project</font>
- - 2024.1 - 2027.12   **Principal Investigator**, The stability analysis and synthesis design for impulsive control systems via a discrete-time adaptive mechanism, *National Natural Science Foundation of China* with Grant No.62363009, ¥ 310,000(CNY); </p>
+ - 2024.1 - 2027.12   **Principal Investigator**, The stability analysis and synthesis design for impulsive control systems via a discrete-time adaptive mechanism, *National Natural Science Foundation of China* with Grant No.62363009, ¥ 310,000(CNY); 
    
  - 2024.1 - 2026.12 **Principal Investigator**, The accelerated algorithm design and analysis of distributed event-based optimization, *Natural Science Foundation of Hainan province*} with Grant No. 124MS002, ¥ 80,000(CNY);
 
@@ -44,4 +46,8 @@
 
  11. **Xuegang Tan**, Jinde Cao, Xiaodi Li, and A. Alsaedi, Leader-following mean square consensus of stochastic multi-agent systems with input delay via event-triggered control, *IET Control Theory & Applications*, 12(2): 299−309, 2018. (<font color=Crimson>ESI high-cited paper</font>)
 
+## <font color=DeepSkyBlue> Selected Conference Papers</font>
+ 1. **Xuegang Tan**, Jinde Cao, Sampling-based distributed hybrid optimization for multi-agent systems, *The 13th Asian Control Conference (ASCC 2022), Jeju Island, Korea*, 1876 − 1880, 2022.
+ 2. **Xuegang Tan**, Jinde Cao*, “Self-triggered Impulsive Synchronization of Multi-agent Systems with Encrypted Communication, *11th International Conference on Information Science and Technology (ICIST), Chengdu, China*, 114 − 118, 2021.
+ 3. Dongdong Yue, Jinde Cao*, Qi Li, and **Xuegang Tan**, Robust neuro-adaptive asymptotic consensus for a class of uncertain multi-agent systems: An edge-based paradigm, *2019 International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary*, 1−7, 2019.
 
