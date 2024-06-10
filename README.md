@@ -2,7 +2,7 @@
   <table border="0">
     <tr>
     <td width="25%">
-      ![XgTan](https://github.com/XuegangTan/XuegangTan.github.io/blob/main/XgTan.png)
+      ![XgTan](/XuegangTan.github.io/blob/main/XgTan.png)
     </td>
     <td width="75%">
       <h1>Dr. Xuegang Tan (谭学刚, 副研究员, 博导)</h1>
