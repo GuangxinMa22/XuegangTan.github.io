@@ -4,10 +4,10 @@
 		<td rowspan="4"> Xuegang Tan</td>
 	<tr>
 	<tr>
-		 <td **Dr. Xuegang Tan (谭学刚, 副研究员, 博导)**</td>
-   <td**School of Information and Communication Engineering, Hainan University, Haikou 570228, China.**</td>
-   <td**Office: Room 406, School of Information and Communication Engineering, No 58 Renmin Avenue, Haikou 570228, China(办公地址: 中国海南省海口市人民大道58号海南大学信息与通信工程学院406)**
-   <td**Email: xgtanmath@hainanu.edu.cn**</td>
+		<td style="width:70%; text-align: center;"> **Dr. Xuegang Tan (谭学刚, 副研究员, 博导)**</td>
+   		<td style="width:70%; text-align: center;"> **School of Information and Communication Engineering, Hainan University, Haikou 570228, China.**</td>
+   		<td style="width:70%; text-align: center;"> **Office: Room 406, School of Information and Communication Engineering, No 58 Renmin Avenue, Haikou 570228, China(办公地址: 中国海南省海口市人民大道58号海南大学信息与通信工程学院406)**
+   		<td style="width:70%; text-align: center;"> **Email: xgtanmath@hainanu.edu.cn**</td>
 	<tr>
 </table>
  - **Dr. Xuegang Tan (谭学刚, 副研究员, 博导)**
