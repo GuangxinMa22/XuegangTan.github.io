@@ -1,4 +1,17 @@
 # <font color=DeepSkyBlue>Xuegang Tan's  Homepage</font>
+  <table border="0">
+    <tr>
+    <td width="75%">
+      <h1>Dr. Xuegang Tan (谭学刚, 副研究员, 博导)</h1>
+      <p><b>School of Information and Communication Engineering, Hainan University, Haikou 570228, China.</b></p>
+      <p><b>Office: Room 406, School of Information and Communication Engineering, No 58 Renmin Avenue, Haikou 570228, China(办公地址: 海南省海口市人民大道58号海南大学信息与通信工程学院406)</b></p>
+      <p><b>Email: xgtanmath@hainanu.edu.cn</b></p></td>
+      <td width="25%">
+      <img src="https://github.com/XuegangTan/XuegangTan.github.io/blob/main/XgTan.png" width="10%">  % 插入证件照代码
+      </td>
+    </tr>
+  </table>
+
   <img src="https://github.com/XuegangTan/XuegangTan.github.io/blob/main/XgTan.png" height="180px" width="160px"/> 
  
  -  **Dr. Xuegang Tan (谭学刚, 副研究员, 博导)** 
