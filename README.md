@@ -1,17 +1,4 @@
 # <font color=DeepSkyBlue>Xuegang Tan's  Homepage</font>
-    .wrapper {
-        overflow: auto;
-    }
-    .left, .right {
-        box-sizing: border-box;
-        float: left;
-        height: 200px;
-    }
-    .right {
-        background-color: #00ff00;
-        width: calc( 100% - 140px );
-    }
-
  <img src="https://github.com/XuegangTan/XuegangTan.github.io/blob/3ce5e3967cc7ddbb439374f28e8fd4d522c0346c/XgTan.png" height="180px" width="160px" />
  
  -  **Dr. Xuegang Tan (谭学刚, 副研究员, 博导)** 
