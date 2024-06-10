@@ -2,6 +2,7 @@
   <table border="0">
     <tr>
     <td width="25%">
+      ![XgTan](./XgTan.png)
       <img src="https://github.com/XuegangTan/XuegangTan.github.io/blob/main/XgTan.png" width="100%"> 
     </td>
     <td width="75%">
