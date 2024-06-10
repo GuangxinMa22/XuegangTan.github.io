@@ -8,10 +8,10 @@ output:
 ```{r echO=FALSE}
 df <- data.frame(x=c('hello1','hello4','hello3','hello4'))
 ```
-## r df[1,1]
-## r df[2,1]
-##`r df[3,1]
-##`r df[4,1]
+## `r df[1,1]
+## `r df[2,1]
+## `r df[3,1]
+## `r df[4,1]
 
 
 
