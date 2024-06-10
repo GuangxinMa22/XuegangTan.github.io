@@ -1,7 +1,7 @@
 # <font color=DeepSkyBlue>Xuegang Tan's  Homepage</font>
  -  **Dr. Xuegang Tan (谭学刚, 副研究员, 博导)**
  -  **School of Information and Communication Engineering, Hainan University, Haikou 570228, China.**
- -  **Office: Room 406, School of Information and Communication Engineering, No 58 Renmin Avenue, Haikou 570228, China(办公地址: 中国海南省海口市人民大道58号海南大学信息与通信工程学院406)**
+ -  **Office: Room 406, School of Information and Communication Engineering, No 58 Renmin Avenue, Haikou 570228, China(办公地址: 海南省海口市人民大道58号海南大学信息与通信工程学院406)**
  -  **Email: xgtanmath@hainanu.edu.cn**
 
 # <font color=DeepSkyBlue> Personal Information</font>
