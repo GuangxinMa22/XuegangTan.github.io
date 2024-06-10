@@ -12,7 +12,7 @@
  - **CETC Scholarship for Graduate Students**, awarded by Southeast University Education Foundation, 2019.
 
 # <font color=DeepSkyBlue> Research Project</font>
- - <p style="text-align: justify;"> 2024.1 - 2027.12   **Principal Investigator**, The stability analysis and synthesis design for impulsive control systems via a discrete-time adaptive mechanism, *National Natural Science Foundation of China* with Grant No.62363009, ¥ 310,000(CNY); </p>
+ - <p style="text-align: justify;"> 2024.1 - 2027.12   -Principal Investigator-, The stability analysis and synthesis design for impulsive control systems via a discrete-time adaptive mechanism, *National Natural Science Foundation of China* with Grant No.62363009, ¥ 310,000(CNY); </p>
    
  - 2024.1 - 2026.12 **Principal Investigator**, The accelerated algorithm design and analysis of distributed event-based optimization, *Natural Science Foundation of Hainan province*} with Grant No. 124MS002, ¥ 80,000(CNY);
 
