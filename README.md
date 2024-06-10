@@ -1,6 +1,6 @@
 # <font color=DeepSkyBlue>Xuegang Tan's  Homepage</font>
   <table border="0">
-    <!-- <tr> -->
+    <tr>
     <td width="22%">
       <img src="https://github.com/XuegangTan/XuegangTan.github.io/blob/main/XgTan.png" height="200" align="middle" />
     </td>
@@ -10,7 +10,7 @@
       <p><b>Office: Room 406, School of Information and Communication Engineering, No 58 Renmin Avenue, Haikou 570228, China (办公地址: 海南省海口市人民大道58号海南大学信息与通信工程学院406)</b></p>
       <p><b>Email: xgtanmath@hainanu.edu.cn</b></p>
     </td>
-    <!-- </tr> -->
+    </tr>
   </table>
 
 # <font color=DeepSkyBlue> Personal Information</font>
