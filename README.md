@@ -2,7 +2,7 @@
   <table border="0">
     <tr>
     <td width="25%">
-      <img src="https://github.com/XuegangTan/XuegangTan.github.io/blob/main/XgTan.png" width="150" height="100" align="middle" />
+      <img src="https://github.com/XuegangTan/XuegangTan.github.io/blob/main/XgTan.png" height="100" align="middle" />
     </td>
     <td width="75%">
       <h1>Dr. Xuegang Tan (谭学刚, 副研究员, 博导)</h1>
