@@ -25,6 +25,7 @@
  - 2018.3 - 2020.3 **Principal Investigator**, Distributed event-based cooperative optimal control for multi-agent systems, *Postgraduate Research & Practice Innovation Program of Jiangsu Province* with Grant No. KYCX18_0102, ¥ 30, 000(CNY);
 
 # <font color=DeepSkyBlue> Publications</font>
+ My [Google Scholar](https://scholar.google.com/citations?user=FtwIJooAAAAJ&hl=zh-CN&oi=ao) Page.
 ## <font color=DeepSkyBlue> Selected Journal Papers</font>
  1. **Xuegang Tan**, Wangli He, Jinde Cao, and Tingwen Huang, Stabilization and synchronization of neural networks via impulsive adaptive control, *IEEE Transactions on Neural Networks and Learning Systems*, in press, doi: 10.1109/TNNLS.2023.3287997.
 
