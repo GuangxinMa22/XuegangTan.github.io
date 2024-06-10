@@ -8,9 +8,11 @@
   <p style="text-align: justify;">  Xuegang Tan received Ph.D. degree in control science and engineering from Southeast University, Nanjing, China, in 2020. In 2019, he holden a China Scholarship Council Studentship for one-year study with the Faculty of Science and Engineering at the University of Groningen, the Netherlands. From  2020 to 2023, he was a Postdoctoral researcher at Southeast University, Nanjing, China. He is currently an Associate Researcher with the School of information and communication engineering, Hainan University, Haikou, China. His current research interests include distributed cooperative control of multi-agent systems, distributed optimization, neural networks, complex network systems, and hybrid control systems. </p>
 
 # <font color=DeepSkyBlue> Academic Honors and Awards</font>
- - **National Scholarship for Graduate Students**, awarded by Ministry of Education of P. R. China, 2018;
-   
+ - **Second Prize**, Hainan Division of the Fourth National University Teachers' Teaching Innovation Competition, Rank 3/4, 2024.
+
  - **CETC Scholarship for Graduate Students**, awarded by Southeast University Education Foundation, 2019.
+   
+ - **National Scholarship for Graduate Students**, awarded by Ministry of Education of P. R. China,  Rank 1/1, 2018;
 
 # <font color=DeepSkyBlue> Research Project</font>
  - 2024.1 - 2027.12   **Principal Investigator**, The stability analysis and synthesis design for impulsive control systems via a discrete-time adaptive mechanism, *National Natural Science Foundation of China* with Grant No.62363009, ¥ 310,000(CNY); </p>
