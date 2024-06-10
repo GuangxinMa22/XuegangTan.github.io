@@ -2,8 +2,11 @@
   <table border="0">
     <tr>
     <td width="25%">
-      ![XgTan.png](https://github.com/XuegangTan/XuegangTan.github.io/edit/main/XgTan.png)
-    </td>
+      <img src="https://github.com/XuegangTan/XuegangTan.github.io/edit/main/XgTan.png" width="100" height="30" align="middle" />
+作者：Fsn_soul
+链接：https://www.jianshu.com/p/5c1805c6f0ff
+来源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。    </td>
     <td width="75%">
       <h1>Dr. Xuegang Tan (谭学刚, 副研究员, 博导)</h1>
       <p><b>School of Information and Communication Engineering, Hainan University, Haikou 570228, China.</b></p>
