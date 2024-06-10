@@ -1,12 +1,13 @@
-title:“Xuegang Tan's  Homepage"
+title: “Xuegang Tan's  Homepage"
 output:
- html document:
-  toc: true
-  toc float: true
+  html document:
+   toc: true
+   toc float: true
   
-# Quarterly Results f.tabset} 
-{r echO=FALSE}
+# Quarterly Results {.tabset} 
+```{r echO=FALSE}
 df <- data.frame(x=c('hello1','hello4','hello3','hello4'))
+```
 ## r df[1,1]
 ## r df[2,1]
 ##`r df[3,1]
