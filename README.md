@@ -1,4 +1,25 @@
 # <font color=DeepSkyBlue>Xuegang Tan's  Homepage</font>
+<style>
+    .box{
+        overflow: hidden; 添加BFC
+    }
+    .left {
+        float: left;
+        width: 200px;
+        background-color: gray;
+        height: 400px;
+    }
+    .right {
+        margin-left: 210px;
+        background-color: lightgray;
+        height: 200px;
+    }
+</style>
+<div class="box">
+    <div class="left">左边</div>
+    <div class="right">右边</div>
+</div>
+
  <img src="https://github.com/XuegangTan/XuegangTan.github.io/blob/3ce5e3967cc7ddbb439374f28e8fd4d522c0346c/XgTan.png" height="180px" width="160px" />
  
  -  **Dr. Xuegang Tan (谭学刚, 副研究员, 博导)** 
