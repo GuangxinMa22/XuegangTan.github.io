@@ -1,4 +1,5 @@
 # <font color=DeepSkyBlue>Xuegang Tan's  Homepage</font>
+<img src="src-url" height="240px" width="160px" />
  ![XgTan](https://github.com/XuegangTan/XuegangTan.github.io/blob/3ce5e3967cc7ddbb439374f28e8fd4d522c0346c/XgTan.png#w20%)
  -  **Dr. Xuegang Tan (谭学刚, 副研究员, 博导)** 
  -  **School of Information and Communication Engineering, Hainan University, Haikou 570228, China.**
