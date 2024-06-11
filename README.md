@@ -53,7 +53,7 @@
  
  7. **Xuegang Tan**, Ming Cao, and Jinde Cao, Distributed dynamic event-based control for nonlinear multi-agent systems, *IEEE Transactions on Circuits and Systems II: Express Briefs*, 68(2): 687 − 691, 2021.
  
- 8. **Xuegang Tan**, Jinde Cao, Guoping Lu, and Leszek Rutkowski, Distributed dynamic self-triggered impulsive control for consensus networks: The case of impulse gain with Normal Distribution, *IEEE Transactions on Cybernetics*, 51(2): 624 − 634, 2021. (<font color=Crimson> **ESI high-cited paper** </font>)
+ 8. **Xuegang Tan**, Jinde Cao, Guoping Lu, and Leszek Rutkowski, Distributed dynamic self-triggered impulsive control for consensus networks: The case of impulse gain with Normal Distribution, *IEEE Transactions on Cybernetics*, 51(2): 624 − 634, 2021. (<font color=Crimson> ESI high-cited paper </font>)
 
  9. **Xuegang Tan**, Jinde Cao, and Leszek Rutkowski, Distributed dynamic self-triggered control for uncertain complex networks with Markov switching topologies and random time-varying delay, *IEEE Transactions on Network Science and Engineering*, 7(3): 1111−1120, 2020.
 
